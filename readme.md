@@ -12,4 +12,6 @@ to setup the environment, for the first time
 
 now, from this point onwards, to activate the virtual environment please use following command for windows:
 
-`.\env\Scripts\activate.bat`
+.\env\Scripts\activate.bat
+
+ cd 'C:\Users\danya\Documents\learn python\Learning-python'
